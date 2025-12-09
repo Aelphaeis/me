@@ -75,6 +75,19 @@
 
 ## Projects  
 
+### Filing Fee Options System – *Clio*  
+*October 2025 – November 2025*
+
+Owned the end-to-end delivery of a mission-critical feature required for ClioFile’s expansion into California. Identified the product gap, designed the technical approach, and delivered the implementation in time for ClioCon, enabling a major market launch.
+
+**Impact Highlights:**
+- **Unblocked entry into California by designing and implementing a new filing fee architecture**
+- **Designed and implemented the integration with a third-party e-filing service, defining how fee data is retrieved, transformed, and used across the product**
+- Built a maintainable CRUD and workflow system for customer-facing fee management
+- Redesigned the estimate experience to incorporate filing fees with improved usability and clearer workflows
+- Reduced customer friction through automation and intelligent fee preselection logic
+- Enhanced monitoring, error handling, and performance characteristics to support long-term stability
+
 ### 30-Day Free Trial Implementation – *Clio*  
 *June 2025 – August 2025*  
 
