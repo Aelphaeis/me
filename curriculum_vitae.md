@@ -78,7 +78,7 @@
 ### Filing Fee Options System – *Clio*  
 *October 2025 – November 2025*
 
-Owned the end-to-end delivery of a mission-critical feature required for ClioFile’s expansion into California. Identified the product gap, designed the technical approach, and delivered the implementation in time for ClioCon, enabling a major market launch.
+Brought in to lead the delivery of a time-sensitive, mission-critical feature required for ClioFile’s expansion into California. Designed the technical approach and shipped the implementation in time for ClioCon, enabling a major market launch.
 
 **Impact Highlights:**
 - **Unblocked entry into California by designing and implementing a new filing fee architecture**
