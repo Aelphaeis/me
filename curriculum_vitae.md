@@ -88,6 +88,8 @@ Brought in to lead the delivery of a time-sensitive, mission-critical feature re
 - Reduced customer friction through automation and intelligent fee preselection logic
 - Enhanced monitoring, error handling, and performance characteristics to support long-term stability
 
+---
+
 ### 30-Day Free Trial Implementation – *Clio*  
 *June 2025 – August 2025*  
 
