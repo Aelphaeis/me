@@ -133,7 +133,7 @@ Brought in to lead the delivery of a time-sensitive, mission-critical feature re
 ### 30-Day Free Trial Implementation – *Clio*  
 *June 2025 – August 2025*  
 
-Championed the design and launch of a scalable 30-day free trial system, driving measurable growth in customer acquisition and conversion rates. Partnered with product, billing, and engineering teams to deliver an end-to-end solution that streamlined activation, billing, and subscription transition.  
+Designed and launched a 30-day free trial system for Clio File as a solo project, leading it end-to-end from design through delivery and production support. Launched on schedule, with over 400 filings created through trial accounts in the months following release.  
 
 **Key Technical Accomplishments:**  
 - Defined and implemented new database models and business logic to manage the full trial lifecycle  
