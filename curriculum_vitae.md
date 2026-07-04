@@ -86,6 +86,20 @@
 
 ## Projects  
 
+### California E-Service Launch – *Clio*  
+*December 2025 – March 2026*
+
+Core engineer on the two-person team that delivered Clio File's first e-service capability in California — enabling attorneys to serve court documents electronically alongside e-filings in a state whose filing managers offer no integrated e-service. Brought in for system design and email domain expertise, and shipped to pilot.
+
+**Impact Highlights:**
+- **Designed the provider architecture (decorator + strategy patterns) that layered e-service onto the existing e-filing pipeline without disrupting other jurisdictions**
+- Built the email-based document service pipeline, including secure, expiring document links and two-factor (OTP) verification for recipient access
+- Delivered a zero-downtime, three-stage schema change linking filing records to served contacts, with automated backfill across four database shards
+- Implemented document open/view tracking with event notifications back to the filing provider
+- Led the cutover of California's e-filing service provider behind a staged rollout
+
+---
+
 ### Filing Fee Options System – *Clio*  
 *October 2025 – November 2025*
 
