@@ -24,7 +24,7 @@
 
 Took over Clio's Calendar Rules team as interim manager, later appointed permanently. Manage a team of developers building court-rules products (deadline calculation, court-rules data management) across Clio Manage and a standalone Rails service.
 
-- Led the team to #1 in true throughput and top-3 PR throughput per developer among the 89 engineering teams shipping more than 50 PRs this year
+- Led the team to #1 in true throughput and top-3 in PR throughput (both measured per developer) among the 89 engineering teams shipping more than 50 PRs this year
 - Grew the Calendar Rules add-on from ~$35K to ~$43K monthly recurring revenue (+23%) in six months of team leadership
 - Delivered the Update Notifications system (cross-service webhooks updating users' court deadlines when court rules change) through delegated DRI ownership, growing two early-career developers into confident project leads
 - Discovered and remediated a years-old billing defect, prioritizing ~$11K in proactive customer refunds over roadmap — "do honest work" as team policy
