@@ -20,25 +20,28 @@
 ## Work Experience  
 
 ### Development Manager – *Clio*  
-*Jul 2026 – Present*
+*Jan 2026 – Present* (interim Jan–Jun 2026; appointed Jul 2026)
 
-- Coach, manage, and develop a team of developers and tech leads, fostering a collaborative environment focused on team priorities
-- Remove roadblocks and champion unique, creative solutions to keep delivery on track
-- Plan and implement systems to track and measure process improvements
-- Partner with Product Management and Product Design to envision, develop, and execute on Clio's product roadmap
-- Contribute hands-on development as required
+Took over Clio's Calendar Rules team as interim manager, later appointed permanently. Manage a team of developers building court-rules products (deadline calculation, court-rules data management) across Clio Manage and a standalone Rails service.
+
+- Led the team to #1 in true throughput and top-3 PR throughput per developer among ~120 engineering teams
+- Grew the Calendar Rules add-on from ~$35K to ~$43K monthly recurring revenue (+23%) in six months of team leadership
+- Delivered the Update Notifications system (cross-service webhooks updating users' court deadlines when court rules change) through delegated DRI ownership, growing two early-career developers into confident project leads
+- Discovered and remediated a years-old billing defect, prioritizing ~$11K in proactive customer refunds over roadmap — "do honest work" as team policy
+- Ran monthly written performance evaluations, deliberate DRI rotation, and deadline-negotiation practices that eliminated crunch while raising velocity
+- Continued hands-on delivery: shipped the team's highest-impact growth project (Court Rules Discoverability) and built its AI-assisted review tooling
 
 ---
 
 ### Senior Software Developer – *Clio*  
-*Aug 2021 – Jun 2026*  
+*Aug 2021 – Jan 2026*  
 
-- Lead the design, development, and optimization of high-impact product features, ensuring scalability, stability, and alignment with business goals  
-- Drive database development and performance improvements, setting standards for reliability and maintainability across the team  
-- Act as a technical leader in project delivery, providing architectural guidance, mentoring peers, and advocating for quality while balancing velocity  
-- Collaborate cross-functionally with Product, Finance, and other Engineering teams to deliver initiatives that span multiple domains  
-- Represent Engineering in architecture reviews, contributing to long-term technical strategy and ensuring decisions align with company objectives  
-- Proactively identify gaps in process and systems, champion improvements, and coach teammates to adopt best practices  
+- Led the design and delivery of revenue-critical features across Clio's e-filing and billing platforms, including the filing-fee architecture and e-service capabilities behind ClioFile's California market launch
+- Designed the data model for e-service records: initiated and facilitated the design discussions, prototyped the approach, implemented the consensus version, and backfilled ~5,000 production filing records across four database shards with zero downtime
+- Authored design documents and threat analyses for security-sensitive systems — including a DKIM privilege-escalation analysis for email forwarding and OTP-secured document access — partnering directly with Security
+- Sustained one of the organization's highest delivery rates (peaking above 21 merged PRs per week) while owning architecture reviews, production support, and incident response
+- Mentored developers through design patterns, threat modeling, and code review; mentee output roughly doubled and peers sought out the workflow
+- Championed process improvements later adopted org-wide, including a single-reviewer PR pilot and AI-assisted development tooling and standards
 
 ---
 
