@@ -86,6 +86,19 @@
 
 ## Projects  
 
+### Court Rules Discoverability – *Clio*  
+*March 2026 – April 2026*
+
+Conceived and solely delivered a growth initiative to surface Clio's court-rules feature at the moments users need it, adding instrumented entry points across the product. Shipped end-to-end — from staged rollout through full ramp and cleanup — while serving as interim Development Manager.
+
+**Impact Highlights:**
+- **Grew net-new adoption to ~19× the pre-launch rate (+194 active firms in four weeks, ~5σ above baseline), delivering 128% of the launch's revenue plan for a ~$500K ARR add-on line**
+- **Lifted sustained monthly active usage ~12% — from a flat ~1,600 firms/month to ~1,800, holding through the following quarter**
+- Added "Add Court Rules" entry points across every e-filing surface, surfaced over 8 million times in the first four months
+- Instrumented every entry point and built the analytics dashboards used to measure adoption and conversion
+
+---
+
 ### California E-Service Launch – *Clio*  
 *December 2025 – March 2026*
 
