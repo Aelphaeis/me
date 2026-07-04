@@ -19,8 +19,19 @@
 
 ## Work Experience  
 
+### Development Manager – *Clio*  
+*Jul 2026 – Present*
+
+- Coach, manage, and develop a team of developers and tech leads, fostering a collaborative environment focused on team priorities
+- Remove roadblocks and champion unique, creative solutions to keep delivery on track
+- Plan and implement systems to track and measure process improvements
+- Partner with Product Management and Product Design to envision, develop, and execute on Clio's product roadmap
+- Contribute hands-on development as required
+
+---
+
 ### Senior Software Developer – *Clio*  
-*Aug 2021 – Present*  
+*Aug 2021 – Jun 2026*  
 
 - Lead the design, development, and optimization of high-impact product features, ensuring scalability, stability, and alignment with business goals  
 - Drive database development and performance improvements, setting standards for reliability and maintainability across the team  
