@@ -29,7 +29,6 @@ Took over Clio's Calendar Rules team as interim manager, later appointed permane
 - Delivered the Update Notifications system (cross-service webhooks updating users' court deadlines when court rules change) through delegated DRI ownership, growing two early-career developers into confident project leads
 - Discovered and remediated a years-old billing defect, prioritizing ~$11K in proactive customer refunds over roadmap — "do honest work" as team policy
 - Ran monthly written performance evaluations, deliberate DRI rotation, and deadline-negotiation practices that eliminated crunch while raising velocity
-- Continued hands-on delivery: shipped the team's highest-impact growth project (Court Rules Discoverability) and built its AI-assisted review tooling
 
 ---
 
