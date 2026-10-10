@@ -39,7 +39,7 @@ Took over Clio's Calendar Rules team as interim manager, later appointed permane
 - Designed the data model for e-service records: initiated and facilitated the design discussions, prototyped the approach, implemented the consensus version, and backfilled ~5,000 production filing records across four database shards with zero downtime
 - Authored design documents and threat analyses for security-sensitive systems — including a DKIM privilege-escalation analysis for email forwarding and OTP-secured document access — partnering directly with Security
 - Sustained one of the organization's highest delivery rates (peaking above 21 merged PRs per week) while owning architecture reviews, production support, and incident response
-- Mentored developers through design patterns, threat modeling, and code review; mentee output roughly doubled and peers sought out the workflow
+- Mentored developers through design patterns, threat modeling, and code review; shared my development workflow, which other developers then adopted
 - Championed process improvements later adopted org-wide, including a single-reviewer PR pilot and AI-assisted development tooling and standards
 
 ---
