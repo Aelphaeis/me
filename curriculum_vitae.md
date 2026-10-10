@@ -27,7 +27,7 @@ Took over Clio's Calendar Rules team as interim manager, later appointed permane
 - Led the team to #1 in true throughput and top-3 in PR throughput (both measured per developer) among the 89 engineering teams shipping more than 50 PRs in the first half of 2026
 - Calendar Rules add-on revenue grew 23% in my first six months as manager, driven largely by the Court Rules Discoverability launch
 - Delivered Update Notifications by making two early-career developers its project leads
-- Discovered and remediated a years-old billing defect, prioritizing ~$11K in proactive customer refunds over roadmap — "do honest work" as team policy
+- Made proactive customer refunds for a years-old billing defect a priority over roadmap work — "do honest work" as team policy
 - Ran monthly written performance evaluations, rotated DRI ownership across the team, and negotiated deadlines with Product up front instead of absorbing them as crunch
 
 ---
@@ -98,6 +98,19 @@ DRI for Clio's AI code reviewer in Overlord, part of an engineering-wide effort 
 - Built the shared GitHub Action that sets the required number of human reviewers from each pull request's AI risk score
 - Hand-audited 158 AI-reviewed pull requests to tune the review policy
 - Compared two AI risk scorers on ~100 pull requests and piloted risk-based review levels on the Calendar Rules codebase
+
+---
+
+### Phantom Jurisdiction Cleanup – *Clio*  
+*May 2026 – Jul 2026*
+
+Development Manager for the team that found and fixed a years-old billing defect charging customers for court jurisdictions that no longer existed. Made proactive refunds a priority over roadmap work and secured leadership approval to remove the jurisdictions and make customers whole.
+
+**Impact Highlights:**
+- **Proactively refunded 74 affected customer accounts**
+- Secured approval from engineering and content leadership to remove the phantom jurisdictions
+- Agreed with the content director to contact affected customers by phone rather than email
+- A developer on the team found the defect and built the cleanup and refund tooling; a content specialist led customer communications
 
 ---
 
