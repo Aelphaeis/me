@@ -26,7 +26,7 @@ Took over Clio's Calendar Rules team as interim manager, later appointed permane
 
 - Led the team to #1 in true throughput and top-3 in PR throughput (both measured per developer) among the 89 engineering teams shipping more than 50 PRs in the first half of 2026
 - Calendar Rules add-on revenue grew 23% in my first six months as manager, driven largely by the Court Rules Discoverability launch
-- Delivered the Update Notifications system through delegated DRI ownership — cross-service webhooks that have sent 64,000+ court-deadline notifications across five production regions since launch — growing two early-career developers into confident project leads
+- Delivered the Update Notifications system by making two early-career developers its project leads — cross-service webhooks that had sent 64,000+ court-deadline notifications across five production regions by July 2026
 - Discovered and remediated a years-old billing defect, prioritizing ~$11K in proactive customer refunds over roadmap — "do honest work" as team policy
 - Ran monthly written performance evaluations, rotated DRI ownership across the team, and negotiated deadlines with Product up front instead of absorbing them as crunch
 
