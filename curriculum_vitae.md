@@ -35,7 +35,7 @@ Took over Clio's Calendar Rules team as interim manager, later appointed permane
 ### Senior Software Developer – *Clio*  
 *Aug 2021 – Jan 2026*  
 
-- Led the design and delivery of revenue-critical features across Clio's e-filing and billing platforms, including the filing-fee architecture and e-service capabilities behind ClioFile's California market launch
+- Led the design and delivery of revenue-critical features across Clio's e-filing and billing platforms, including the filing-fee architecture and e-service capabilities behind Clio File's California market launch
 - Designed the data model for e-service records: initiated and facilitated the design discussions, prototyped the approach, implemented the consensus version, and backfilled ~5,000 production filing records across four database shards with zero downtime
 - Authored design documents and threat analyses for security-sensitive systems — including a DKIM privilege-escalation analysis for email forwarding and OTP-secured document access — partnering directly with Security
 - Sustained one of the organization's highest delivery rates (peaking above 21 merged PRs per week) while owning architecture reviews, production support, and incident response
@@ -89,7 +89,7 @@ Took over Clio's Calendar Rules team as interim manager, later appointed permane
 ## Projects  
 
 ### Court Rules Discoverability – *Clio*  
-*March 2026 – April 2026*
+*Mar 2026 – Apr 2026*
 
 Conceived and solely delivered a growth initiative to surface Clio's court-rules feature at the moments users need it, adding instrumented entry points across the product. Shipped end-to-end — from staged rollout through full ramp and cleanup — while serving as interim Development Manager.
 
@@ -102,7 +102,7 @@ Conceived and solely delivered a growth initiative to surface Clio's court-rules
 ---
 
 ### California E-Service Launch – *Clio*  
-*December 2025 – March 2026*
+*Dec 2025 – Mar 2026*
 
 Core engineer on the two-person team that delivered Clio File's first e-service capability in California — enabling attorneys to serve court documents electronically alongside e-filings in a state whose filing managers offer no integrated e-service. Brought in for system design and email domain expertise, and shipped to pilot.
 
@@ -116,9 +116,9 @@ Core engineer on the two-person team that delivered Clio File's first e-service 
 ---
 
 ### Filing Fee Options System – *Clio*  
-*October 2025 – November 2025*
+*Oct 2025 – Nov 2025*
 
-Brought in to lead the delivery of a time-sensitive, mission-critical feature required for ClioFile’s expansion into California. Designed the technical approach and shipped the implementation in time for ClioCon, enabling a major market launch.
+Brought in to lead the delivery of a time-sensitive, mission-critical feature required for Clio File's expansion into California. Designed the technical approach and shipped the implementation in time for ClioCon, enabling a major market launch.
 
 **Impact Highlights:**
 - **Unblocked entry into California by designing and implementing a new filing fee architecture**
@@ -131,7 +131,7 @@ Brought in to lead the delivery of a time-sensitive, mission-critical feature re
 ---
 
 ### 30-Day Free Trial Implementation – *Clio*  
-*June 2025 – August 2025*  
+*Jun 2025 – Aug 2025*  
 
 Designed and launched a 30-day free trial system for Clio File as a solo project, leading it end-to-end from design through delivery and production support. Launched on schedule, with over 400 filings created through trial accounts in the months following release.  
 
@@ -144,7 +144,7 @@ Designed and launched a 30-day free trial system for Clio File as a solo project
 ---
 
 ### E-Filing Reconciliation Report – *Clio*  
-*June 2024 – September 2024*  
+*Jun 2024 – Sep 2024*  
 
 Led the delivery of a reconciliation report system to streamline financial management for enterprise clients. Drove cross-functional alignment with Finance and Product teams to deliver a consolidated, exportable view of e-filing expenses, significantly reducing manual effort and improving accounting accuracy.  
 
@@ -159,7 +159,7 @@ Led the delivery of a reconciliation report system to streamline financial manag
 ## Recognition  
 
 - *Draw the Owl* Impact Award – Clio (2024)  
-   Honored for demonstrating high agency, innovation, and ownership in delivering impactful solutions. Selected as a winner in one of Clio’s company-wide Impact Award categories, aligned to core cultural values.  
+   Honored for demonstrating high agency, innovation, and ownership in delivering impactful solutions. Selected as a winner in one of Clio's company-wide Impact Award categories, aligned to core cultural values.  
 
 ---
 
