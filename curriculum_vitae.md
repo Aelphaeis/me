@@ -118,13 +118,13 @@ Core engineer on the two-person team that delivered Clio File's first e-service 
 ### Filing Fee Options System – *Clio*  
 *Oct 2025 – Nov 2025*
 
-Brought in to lead the delivery of a time-sensitive, mission-critical feature required for Clio File's expansion into California. Designed the technical approach and shipped the implementation in time for ClioCon, enabling a major market launch.
+Brought in to lead delivery of the filing-fee feature required for Clio File's expansion into California, with a fixed ClioCon deadline. Designed the technical approach and shipped it in time.
 
 **Impact Highlights:**
 - **Designed and implemented the new filing fee architecture required for Clio File's California launch**
-- **Designed and implemented the integration with a third-party e-filing service, defining how fee data is retrieved, transformed, and used across the product**
-- Built a maintainable CRUD and workflow system for customer-facing fee management
-- Redesigned the estimate experience to incorporate filing fees with improved usability and clearer workflows
+- **Built the integration with a third-party e-filing service, defining how fee data is retrieved, transformed, and used across the product**
+- Built the tools customers use to manage their filing fees
+- Redesigned the estimate page to include filing fees
 - Reduced customer friction through automation and intelligent fee preselection logic
 - Enhanced monitoring, error handling, and performance characteristics to support long-term stability
 
