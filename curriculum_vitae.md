@@ -101,6 +101,19 @@ Conceived and solely delivered a growth initiative to surface Clio's court-rules
 
 ---
 
+### Bar Numbers in Clio Manage – *Clio*  
+*Feb 2026 – Mar 2026*
+
+Built bar-number support into Clio Manage for a long-requested stakeholder ask, taking it from proof of concept to production in three weeks while serving as interim Development Manager, then handed it off to the Draft team for document automation.
+
+**Impact Highlights:**
+- **Adopted by 9,443 lawyers in the US region by June 2026; about 10% of early adopters recorded multiple bar numbers**
+- Shipped a working first version the day the project started, then extended it to support multiple ordered bar numbers per lawyer
+- Backfilled ordering for every existing Manage user so bar numbers flow into document automation
+- Recognized by the stakeholder as having gone well beyond expectations, and asked to serve as the go-to resource for other teams adopting it
+
+---
+
 ### California E-Service Launch – *Clio*  
 *Dec 2025 – Mar 2026*
 
