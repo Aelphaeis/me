@@ -26,7 +26,7 @@ Took over Clio's Calendar Rules team as interim manager, later appointed permane
 
 - Led the team to #1 in true throughput and top-3 in PR throughput (both measured per developer) among the 89 engineering teams shipping more than 50 PRs in the first half of 2026
 - Calendar Rules add-on revenue grew 23% in my first six months as manager, driven largely by the Court Rules Discoverability launch
-- Delivered the Update Notifications system by making two early-career developers its project leads — cross-service webhooks that had sent 64,000+ court-deadline notifications across five production regions by July 2026
+- Delivered Update Notifications by making two early-career developers its project leads
 - Discovered and remediated a years-old billing defect, prioritizing ~$11K in proactive customer refunds over roadmap — "do honest work" as team policy
 - Ran monthly written performance evaluations, rotated DRI ownership across the team, and negotiated deadlines with Product up front instead of absorbing them as crunch
 
@@ -124,6 +124,19 @@ Built bar-number support into Clio Manage for a long-requested stakeholder ask, 
 - Shipped a working first version the day the project started, then extended it to support multiple ordered bar numbers per lawyer
 - Backfilled ordering for every existing Manage user so bar numbers flow into document automation
 - Recognized by the stakeholder as having gone well beyond expectations, and asked to serve as the go-to resource for other teams adopting it
+
+---
+
+### Update Notifications – *Clio*  
+*Feb 2026 – Apr 2026*
+
+Development Manager for the team that built a cross-service webhook system delivering court-deadline update notifications. Chose to hand project leadership to two early-career developers rather than lead it myself, and supported them as their manager through design, launch, and the first production incident.
+
+**Impact Highlights:**
+- **Sent 64,000+ court-deadline notifications across five production regions by July 2026**
+- Ran a practice architecture review with the project leads before the design was finalized
+- Built the webhook delivery dashboard used to monitor the system in production
+- Advised as the project leads ran the first production incident from start to finish
 
 ---
 
