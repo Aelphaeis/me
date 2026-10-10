@@ -130,7 +130,7 @@ Built bar-number support into Clio Manage for a long-requested stakeholder ask, 
 ### Update Notifications – *Clio*  
 *Feb 2026 – Apr 2026*
 
-Development Manager for the team that built a cross-service webhook system delivering court-deadline update notifications. Chose to hand project leadership to two early-career developers rather than lead it myself, and supported them as their manager through design, launch, and the first production incident.
+Development Manager for the team that built a webhook system sending court-deadline updates from the Calendar Rules service to Clio, which consumes them as an internal partner. Chose to hand project leadership to two early-career developers rather than lead it myself, and supported them as their manager through design, launch, and the first production incident.
 
 **Impact Highlights:**
 - **Sent 64,000+ court-deadline notifications across five production regions by July 2026**
