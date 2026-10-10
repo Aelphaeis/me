@@ -146,13 +146,11 @@ Designed and launched a 30-day free trial system for Clio File as a solo project
 ### E-Filing Reconciliation Report – *Clio*  
 *Jun 2024 – Sep 2024*  
 
-Led the delivery of a reconciliation report system to streamline financial management for enterprise clients. Drove cross-functional alignment with Finance and Product teams to deliver a consolidated, exportable view of e-filing expenses, significantly reducing manual effort and improving accounting accuracy.  
+Led delivery of a reconciliation report for enterprise clients, working with Clio's Finance and Product teams to give clients one exportable view of their e-filing expenses.  
 
 **Key Technical Accomplishments:**  
-- Defined the technical direction for an enhanced transaction history page with advanced filtering and sorting  
-- Architected CSV export functionality for aggregated transaction views, adopted by Finance for reconciliation workflows  
-- Established standards to ensure data integrity and completeness across all exported fields  
-- Advocated for a lightweight, maintainable approach, balancing delivery speed with long-term scalability  
+- Designed and built the new transaction history page with filtering and sorting  
+- Built CSV export of combined transaction data, used by Clio's Finance team for reconciliation  
 
 ---
 
