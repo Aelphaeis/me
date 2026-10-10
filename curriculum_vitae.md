@@ -25,7 +25,7 @@
 Took over Clio's Calendar Rules team as interim manager, later appointed permanently. Manage a team of developers building court-rules products (deadline calculation, court-rules data management) across Clio Manage and a standalone Rails service.
 
 - Led the team to #1 in true throughput and top-3 in PR throughput (both measured per developer) among the 89 engineering teams shipping more than 50 PRs in the first half of 2026
-- Grew the Calendar Rules add-on from ~$35K to ~$43K monthly recurring revenue (+23%) in six months of team leadership
+- Calendar Rules add-on revenue grew 23% in my first six months as manager, driven largely by the Court Rules Discoverability launch
 - Delivered the Update Notifications system through delegated DRI ownership — cross-service webhooks that have sent 64,000+ court-deadline notifications across five production regions since launch — growing two early-career developers into confident project leads
 - Discovered and remediated a years-old billing defect, prioritizing ~$11K in proactive customer refunds over roadmap — "do honest work" as team policy
 - Ran monthly written performance evaluations, rotated DRI ownership across the team, and negotiated deadlines with Product up front instead of absorbing them as crunch
@@ -94,7 +94,7 @@ Took over Clio's Calendar Rules team as interim manager, later appointed permane
 Conceived and solely delivered a growth initiative to surface Clio's court-rules feature at the moments users need it, adding instrumented entry points across the product. Shipped end-to-end — from staged rollout through full ramp and cleanup — while serving as interim Development Manager.
 
 **Impact Highlights:**
-- **Grew net-new adoption to ~19× the pre-launch rate (+194 active firms in four weeks, ~5σ above baseline), delivering 128% of the launch's revenue plan for a ~$500K ARR add-on line**
+- **Grew net-new adoption to ~19× the pre-launch rate (+194 active firms in four weeks, ~5σ above baseline), delivering 128% of the launch's revenue plan for the Calendar Rules add-on**
 - **Lifted sustained monthly active usage ~12% — from a flat ~1,600 firms/month to ~1,800, holding through the following quarter**
 - Added "Add Court Rules" entry points across every e-filing surface, surfaced over 8 million times in the first four months
 - Instrumented every entry point and built the analytics dashboards used to measure adoption and conversion
