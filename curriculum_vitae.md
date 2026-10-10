@@ -121,7 +121,7 @@ Core engineer on the two-person team that delivered Clio File's first e-service 
 Brought in to lead the delivery of a time-sensitive, mission-critical feature required for Clio File's expansion into California. Designed the technical approach and shipped the implementation in time for ClioCon, enabling a major market launch.
 
 **Impact Highlights:**
-- **Unblocked entry into California by designing and implementing a new filing fee architecture**
+- **Designed and implemented the new filing fee architecture required for Clio File's California launch**
 - **Designed and implemented the integration with a third-party e-filing service, defining how fee data is retrieved, transformed, and used across the product**
 - Built a maintainable CRUD and workflow system for customer-facing fee management
 - Redesigned the estimate experience to incorporate filing fees with improved usability and clearer workflows
