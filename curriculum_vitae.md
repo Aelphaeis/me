@@ -88,6 +88,19 @@ Took over Clio's Calendar Rules team as interim manager, later appointed permane
 
 ## Projects  
 
+### AI Code Review – *Clio*  
+*Jul 2026 – Sep 2026*
+
+DRI for Clio's AI code reviewer in Overlord, part of an engineering-wide effort to scale review effort to each pull request's risk. Built the review engine and the merge gate that enforces risk-based reviewer counts; contributed to the risk scorer, which another engineer owned.
+
+**Impact Highlights:**
+- **Built the AI review engine (review policy, LLM reviewer, runner, and comment poster), shipped in nine incremental PRs and still reviewing pull requests on the Calendar Rules codebase**
+- Built the shared GitHub Action that sets the required number of human reviewers from each pull request's AI risk score
+- Hand-audited 158 AI-reviewed pull requests to tune the review policy
+- Compared two AI risk scorers on ~100 pull requests and piloted risk-based review levels on the Calendar Rules codebase
+
+---
+
 ### Court Rules Discoverability – *Clio*  
 *Mar 2026 – Apr 2026*
 
